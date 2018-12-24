@@ -1,4 +1,5 @@
 class account{
 String name; //用户名
 String password;//密码
+String email；
 }
