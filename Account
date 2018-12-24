@@ -1,0 +1,4 @@
+class account{
+String name;
+String password;
+}
